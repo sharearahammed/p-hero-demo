@@ -1,0 +1,27 @@
+[
+    {
+      "category": "Computer Science",
+      "title": "Introduction to Python Programming",
+      "owner": "CodeAcademy",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590868459i/53672238.jpg"
+    },
+    {
+      "category": "Mathematics",
+      "title": "Calculus: Single Variable",
+      "owner": "MathGenius University",
+      "thumbnail": "https://wafilife-media.wafilife.com/uploads/2020/11/%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82.jpg"
+    },
+    {
+      "category": "Language Learning",
+      "title": "Spanish for Beginners",
+      "owner": "LanguageLearners Institute",
+      "thumbnail": "https://projonmeralo.com/wp-content/uploads/2021/06/projonmeralo20210612.07r.jpg"
+    },
+    {
+      "category": "Finance",
+      "title": "Personal Finance Mastery",
+      "owner": "FinancePro Academy",
+      "thumbnail": "https://wafilife-media.wafilife.com/uploads/2021/05/%E0%A6%9C%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%AE.jpg"
+    }
+  ]
+  
